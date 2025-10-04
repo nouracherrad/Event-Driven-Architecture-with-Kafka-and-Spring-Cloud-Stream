@@ -70,7 +70,7 @@ Tu devrais voir :
 
    * **Visualiser les analyses en temps réel :**
      Ouvre le fichier **analytics.html** dans ton navigateur pour voir le graphe dynamique.
-<img width="1319" height="546" alt="image" src="https://github.com/user-attachments/assets/7f592019-3dbd-4d32-b3c3-1a44a7489c1a" />
+
 
 ##  Configuration Kafka Streams
 
@@ -135,6 +135,7 @@ Après avoir démarré les conteneurs Docker et l’application Spring Boot :
 <img width="1039" height="643" alt="image" src="https://github.com/user-attachments/assets/6c6ba84b-80a0-4f79-b274-24c4d91cfeea" />
 
 ```
+
 
 
 
