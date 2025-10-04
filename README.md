@@ -1,16 +1,16 @@
 
 #  Event-Driven Architecture with Kafka and Spring Cloud Stream
 
-## 📖 Description du projet
+## Description du projet
 Ce projet illustre la mise en place d’une **architecture pilotée par les événements (Event-Driven Architecture)** en utilisant **Apache Kafka** et **Spring Cloud Stream**, visant à comprendre la communication asynchrone entre microservices, le traitement temps réel et l’analyse de flux de données.
 
-## ⚙️ Objectifs pédagogiques
+##  Objectifs pédagogiques
 - Comprendre le fonctionnement de **Kafka** et de **Zookeeper**.
 - Créer un **Producer**, un **Consumer** et un **Supplier** Kafka avec Spring Cloud Stream.
 - Mettre en œuvre un **pipeline de traitement de flux** avec Kafka Streams.
 - Visualiser les résultats de l’analyse de flux en temps réel via une interface Web.
 
-## 🧱 Architecture du projet
+##  Architecture du projet
 ```
 
 +-------------------------+
@@ -98,11 +98,13 @@ spring.cloud.stream.kafka.streams.binder.configuration.commit.interval.ms=1
 
   * **Localement**, via les binaires Kafka pour tester les commandes `kafka-console-producer` et `kafka-console-consumer`.
  
-    ![Uploading image.png…]()
+ ![Uploading image.png…]()
+
 
   * **Avec Docker**, en utilisant `docker-compose.yml`.
   * et voici le container
-  * ![Uploading image.png…]()
+<img width="1293" height="585" alt="image" src="https://github.com/user-attachments/assets/74aa7eb9-06f5-49ac-aaca-a3fc060bd92d" />
+
 
 
 ### 2. Création des services Kafka avec Spring Cloud Stream
@@ -133,6 +135,7 @@ Après avoir démarré les conteneurs Docker et l’application Spring Boot :
 <img width="1039" height="643" alt="image" src="https://github.com/user-attachments/assets/6c6ba84b-80a0-4f79-b274-24c4d91cfeea" />
 
 ```
+
 
 
 
