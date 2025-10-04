@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🧩 Event-Driven Architecture with Kafka and Spring Cloud Stream
 
 ## 📖 Description du projet
@@ -130,13 +128,9 @@ Après avoir démarré les conteneurs Docker et l’application Spring Boot :
 * Le graphe dynamique affiche en temps réel le nombre d’événements par page.
 
 **📸 Screen du résultat final :**
-*(À ajouter ici après capture de l’écran)*
+<img width="1039" height="643" alt="image" src="https://github.com/user-attachments/assets/6c6ba84b-80a0-4f79-b274-24c4d91cfeea" />
 
 ```
 
----
 
-Si tu veux, je peux te faire une **version améliorée avec badges GitHub, Maven, Docker et Java**, ce qui rendra ton README encore plus attractif pour GitHub.  
 
-Veux‑tu que je fasse ça ?
-```
